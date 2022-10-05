@@ -1,6 +1,6 @@
-# My_Linux_Utiles
+# My_Unix_Utilities 
 
-Some Linux Commands Utiles
+Some Linux Commands Utilities 
 
 1- pwd -> Mypwd
 
@@ -10,6 +10,6 @@ Some Linux Commands Utiles
 
 4- mv -> Mymv
 
-# Build This Utiles Using fakefile File
+# Build This Utilities Using makefile File
 
 ###########################################
