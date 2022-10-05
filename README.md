@@ -1,6 +1,6 @@
 # My_Linux_Utiles
 
-Some Linux Command Utiles
+Some Linux Commands Utiles
 
 1- pwd -> Mypwd
 
